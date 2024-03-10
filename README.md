@@ -31,9 +31,8 @@
  <img src= "https://camo.githubusercontent.com/8e946c2804fdccdb848c1109042c5398ea6bf93367d82f83aad430b722f50d9b/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" alt= "HTML" style="width:3%;">
 
   <img src= "https://camo.githubusercontent.com/f6e69b35327baf67a3ba726b197bc0c180531bb6a38cc15441de418c50838543/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a736f6e2e737667" alt= "HTML" style="width:3%;">
-
-
 </p>
+
  ## Other
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NORtacus&theme=tokyonight)
