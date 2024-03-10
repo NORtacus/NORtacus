@@ -1,4 +1,4 @@
-### Hi there, I am David Ruiz from Norway! 👋
+## Hi there, I am David Ruiz from Norway! 👋
 
 
 
