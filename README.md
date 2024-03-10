@@ -3,9 +3,9 @@
 
 
 - 🌱 I’m currently learning frontend development at Noroff School of Technology and Digital Media in Trondheim.
-- ⚡ Fun fact: I love to collect old computer.
+- ⚡ Fun fact: I love to collect old computers.
 - :classical_building: I mostly like to design, produce something and code html.
-- :camera: I’m also a photographer. You can see some of my photos in the flickrs link.
+- :camera: I’m also a photographer. You can see some of my photos in the flickr link.
   
   
  <picture>
