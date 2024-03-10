@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning frontend development at Noroff School of Technology and Digital Media in Trondheim.
 - ⚡ Fun fact: I love to collect old computer.
 - :classical_building: I mostly like to design, produce something and code html.
-- I’m also a photographer. You can see some of my photos in the flickrs link.
+- :camera: I’m also a photographer. You can see some of my photos in the flickrs link.
   
  <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NORtacus/David-Ruiz-Homepage/blob/9315e82a1c7b2caf14bb3a877bfe3e96f905208c/images/computing2.gif"| width=200>
