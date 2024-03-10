@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning frontend development at Noroff School of Technology and Digital Media in Trondheim.
 - ⚡ Fun fact: I love to collect old computer.
  <picture>
- <source media="(prefers-color-scheme: dark)" srcset="images/cat-computer.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/NORtacus/David-Ruiz-Homepage/blob/a40dfe85fa2426859c27b0d0f2128f6879f3f0f0/images/cat-computer.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/NORtacus/David-Ruiz-Homepage/blob/f3a5a9d5ddae2d23281451dafc7164d989a66a3d/images/computing.gif">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
