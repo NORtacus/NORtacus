@@ -10,6 +10,6 @@
 </picture>
 
 ## Social
- <a href="https://www.flickr.com/photos/93122495@N03/"><img src= "https://camo.githubusercontent.com/08e0866af304f2d4902fbf826986439371de9bcfb581f24b8d1813f94c6f2adf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c69636b722e737667" alt= "Science Museum Logo" style="width:100%; height:auto; max-width:20px;"></a>
+ <a href="https://www.flickr.com/photos/93122495@N03/"><img src= "https://camo.githubusercontent.com/08e0866af304f2d4902fbf826986439371de9bcfb581f24b8d1813f94c6f2adf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c69636b722e737667" alt= "Science Museum Logo" style="width:10%; height:auto; max-width:20px;"></a>
 
 
