@@ -7,12 +7,6 @@
 - :classical_building: I mostly like to design, produce something and code html.
 - :camera: I’m also a photographer. You can see some of my photos in the flickr link.
   
-  
- <picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/NORtacus/David-Ruiz-Homepage/blob/9315e82a1c7b2caf14bb3a877bfe3e96f905208c/images/computing2.gif"| width=200 align=center>
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
-
 
 <p align="center">
   <img width="200" src="https://github.com/NORtacus/David-Ruiz-Homepage/blob/9315e82a1c7b2caf14bb3a877bfe3e96f905208c/images/computing2.gif">
