@@ -13,7 +13,10 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-<img align="center" width="200" src="https://github.com/NORtacus/David-Ruiz-Homepage/blob/9315e82a1c7b2caf14bb3a877bfe3e96f905208c/images/computing2.gif">
+
+<p align="center">
+  <img width="200" src="https://github.com/NORtacus/David-Ruiz-Homepage/blob/9315e82a1c7b2caf14bb3a877bfe3e96f905208c/images/computing2.gif">
+</p>
 
 ## Social
 
